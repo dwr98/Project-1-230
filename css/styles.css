@@ -33,7 +33,7 @@ nav
 
 #navlist li
 {
-    display: inline;
+    float: left;
     padding-left: 0px;
 }
 
