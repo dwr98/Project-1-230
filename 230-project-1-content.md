@@ -1,9 +1,9 @@
 # Kuso
 
-## Held as a political prisoner, the powers above banish you to Kuso, a mental prison held in the darkest region of your mind.
+## Held as a political prisoner, you are banished to an eternity in Kuso, a mental hell held in the darkest region of your mind.
 
 #### Dive into the world of Kuso as you fight your way towards the freedom you crave in this intense action shooter.
-#### At war with your sanity, to survive you must fight against your greater self and escape the personal hell you were sentenced to.
+#### At war with your sanity, to survive you must fight against your greater self and escape the punishment you were sentenced to.
 
 #### Kuso has an abstract graphics style. The background audio will be minimal but there will be sounds attached to player and enemy actions.
 
