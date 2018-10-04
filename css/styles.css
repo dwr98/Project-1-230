@@ -3,10 +3,31 @@ html
     background-color: black;
     color: white;
 }
+#navlist li a:link 
+{ 
+    color: #789; 
+}
+#navlist li a:visited 
+{ 
+    color: #667; 
+}
+
+#navlist li a:hover
+{
+    color: #000;
+    background: white;
+    border-color: #227;
+}
+
+.cite
+{
+    color: lightgray;
+    font-size: 16px;
+}
 h1
 {
     padding-left: 10px;
-    font-size: 36px;
+    font-size: 72px;
 }
 h2
 {
@@ -25,30 +46,25 @@ img
     margin: 0 auto;
 }
 
+ul
+{
+    list-style-type: none;
+    margin-left: 150px;
+    padding: 0;
+    color: white;
+}
 nav
 {
     color: white;
     font-size: 36px;
+    margin-left: 100px;
 }
 
 #navlist li
 {
     float: left;
-    padding-left: 0px;
+    padding-left: 30px;
+    margin-left: 100px;
 }
 
-#navlist li a:link 
-{ 
-    color: #448; 
-}
-#navlist li a:visited 
-{ 
-    color: #667; 
-}
 
-#navlist li a:hover
-{
-    color: #000;
-    background: gray;
-    border-color: #227;
-}
